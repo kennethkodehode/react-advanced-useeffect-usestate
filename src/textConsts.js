@@ -1,0 +1,1 @@
+export const BOOOOLIAN_FALLBACK_TEXT = 'Not true'
